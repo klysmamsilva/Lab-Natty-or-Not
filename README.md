@@ -1,4 +1,4 @@
-# Robôs em planestas​🪐​
+# Robôs em planetas​🪐​
 
 ## 📒 Descrição
 Este vídeo de 4 segundos apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas em planetas no espaço sideral.
