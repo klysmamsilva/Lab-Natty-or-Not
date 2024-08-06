@@ -10,8 +10,7 @@ Este vídeo de 4 segundos apresenta uma visão rápida e envolvente do potencial
 .Runway -> *para criação do video*.
 
 ## 🧐 Processo de Criação
-O primeiro software utilizado para eloboração foi canva para criação da imagem por texto, ao escrever no campo de digitação e cliclar na opção gerar logo aparecerá 4 imagens cujas estão relacionadas com que foi escritor, depois só é fazer download da imagem, o segundo software utilizado foi runway o qual criar videos baseados com imagens. 
-Por meios de pesquisar sobre as duas ferramentas, ambas foram muito importantes para desenvolvimento, resultado final logo baixo.
+O primeiro software utilizado para eloboração foi canva para criação da imagem por texto, ao escrever no campo de digitação e clicar na opção gerar, logo aparecerá 4 imagens cujas estão relacionadas com que foi escrito, depois só é fazer download da imagem, o segundo software utilizado foi runway o qual criar videos baseados com imagens, oqual possibilita fazer o download do video gerado. Para metado de elaboração, foi feito pesquisas sobre as duas ferramentas, e ambas foram muito importantes para desenvolvimento, resultado final logo baixo.
 
 ## 🚀 Resultados
 
