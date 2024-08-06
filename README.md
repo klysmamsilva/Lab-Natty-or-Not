@@ -14,7 +14,7 @@ O primeiro software utilizado para eloboração foi canva para criação da imag
 
 ## 🚀 Resultados
 
-[Aqui](https://github.com/user-attachments/assets/28c5699c-ff3c-494f-8b5d-fc4af9872cea)
+[Aqui](https://github.com/user-attachments/assets/50a9cfc9-43a0-4125-b766-214e2f1cff94)
 
 
 ## 💭 Reflexão (Opcional)
